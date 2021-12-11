@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "buildit-caesardao"
-  }
+    "default": "buildit-caesardao",
+    "polygon": "caesardao-polygon"
+  },
+  "targets": {}
 }
