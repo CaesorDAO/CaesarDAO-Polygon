@@ -379,7 +379,7 @@ const style = {
 };
 
 var currentSellingPrice = "50";
-const marketplaceContractAddress = "0x924088B2f8FEB5fF02C169B24AF5525d3339453c";
+const marketplaceContractAddress = "0x1Aae859743A1bE3f54580Da163cAacB989972A24";
 
 const ImageGrid = ({ properties, setProperties, ownedTokensList, account }) => {
   const [apes, setApes] = useState([]);

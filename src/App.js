@@ -113,7 +113,7 @@ const App = () => {
     onConnectWallet();
   }, []);
 
-  const nftContractAddress = "0xD58d8C5274483B761BB375243F1cC88adBa151C5";
+  const nftContractAddress = "0xcFdCE7a3514a1d74a8F7BB38B08204dC1e03A53D";
 
   useEffect(() => {
     const run = async () => {

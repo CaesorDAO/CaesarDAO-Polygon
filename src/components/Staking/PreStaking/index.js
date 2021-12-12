@@ -8,7 +8,7 @@ import {
 } from "./PreStakingelements";
 import CaesarNFT from "../../../ethereum/CaesarNFT";
 
-const stakingContractAddress = "0x3A316e28dfb781fbdc9619fE7f20b59a3a9A523B";
+const stakingContractAddress = "0x3965f148E7C5fFAc4A09637C1f1A00cb9021C78d";
 
 const Prestaking = ({ account }) => {
   const [isApproved, setisApproved] = useState(false);
